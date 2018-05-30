@@ -1,0 +1,102 @@
+{
+    "destination-point":[
+    
+        {
+            "id": 1,
+			      "name": "Kolkata",
+            "description": " is the capital of the Indian state of West Bengal. Located on the east bank of the Hooghly River",
+            "note": "",
+            "shortText": "",
+            "position": 1,
+            "subDestination": [{
+                                "subId": 101,
+                                "airportName": "Victoria Memorial" 
+                              },
+                              {
+                                "subId": 102,
+                                "airportName": "Fort William" 
+                              },
+                              {
+                                "subId": 103,
+                                "airportName": "Indian Museum"
+                              }]
+        },
+        
+        {
+            "id": 2,
+			      "name": "Odisha",
+            "description": " ",
+            "note": "",
+            "shortText": "",
+            "position": 2,
+            "subDestination": [{
+                                "subId": 201,
+                                "airportName": "Bhubaneswar" 
+                              },
+                              {
+                                "subId": 202,
+                                "airportName": "Rourkela" 
+                              },
+                              {
+                                "subId": 203,
+                                "airportName": "Balasore"
+                              },
+                              {
+                                "subId": 204,
+                                "airportName": "Cuttack"
+                              }]
+                              
+        },
+        
+        {
+            "id": 3,
+			      "name": "Telengana",
+            "description": " ",
+            "note": "",
+            "shortText": "",
+            "position": 3,
+            "subDestination": [{
+                                "subId": 301,
+                                "airportName": "Hyderabad" 
+                              },
+                              {
+                                "subId": 302,
+                                "airportName": "Mahabubnagar" 
+                              },
+                              {
+                                "subId": 303,
+                                "airportName": "Siddipet"
+                              },
+                              {
+                                "subId": 304,
+                                "airportName": "Ranga Reddy"
+                              }]
+                              
+        },
+        {
+            "id": 4,
+			      "name": "Tamilnadu",
+            "description": " ",
+            "note": "",
+            "shortText": "",
+            "position": 4,
+            "subDestination": [{
+                                "subId": 401,
+                                "airportName": "Chennai" 
+                              },
+                              {
+                                "subId": 402,
+                                "airportName": "Tambram" 
+                              },
+                              {
+                                "subId": 403,
+                                "airportName": "Velachery"
+                              },
+                              {
+                                "subId": 404,
+                                "airportName": "Guindy"
+                              }]
+                              
+        }           
+    ]
+}
