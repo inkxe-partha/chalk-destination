@@ -8,7 +8,7 @@
             "note": "",
             "shortText": "",
             "position": 1,
-            "subDestination": {
+            "subDestination": [{
                                 "subId": 101,
                                 "name": "Victoria Memorial" 
                               },
@@ -19,7 +19,7 @@
                               {
                                 "subId": 103,
                                 "name": "Indian Museum"
-                              }
+                              }]
         },
         
         {
