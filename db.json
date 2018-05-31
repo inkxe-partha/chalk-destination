@@ -3,12 +3,12 @@
     
         {
             "id": 1,
-			      "name": "Kolkata",
+	    "name": "Kolkata",
             "description": " is the capital of the Indian state of West Bengal. Located on the east bank of the Hooghly River",
             "note": "",
             "shortText": "",
             "position": 1,
-            "subDestination": [{
+            "subDestination": {
                                 "subId": 101,
                                 "name": "Victoria Memorial" 
                               },
@@ -19,7 +19,7 @@
                               {
                                 "subId": 103,
                                 "name": "Indian Museum"
-                              }]
+                              }
         },
         
         {
