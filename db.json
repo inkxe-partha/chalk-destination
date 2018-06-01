@@ -8,7 +8,10 @@
             "note": "",
             "shortText": "",
             "position": 1,
-            "subDestination": " "
+            "subDestination": [{
+	    			"subId": 0,
+                                "name": "" 
+	    			}]
         },
         
         {
