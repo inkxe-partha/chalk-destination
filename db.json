@@ -6,7 +6,7 @@
 	    "name": "Kolkata",
 	    "type": "Destination",
             "description": " is the capital of the Indian state of West Bengal. Located on the east bank of the Hooghly River",
-            "tagLine": "",
+            "tagLine": "Enjoy Your Package",
             "subTitle": "The Howrah Bridge is one of the most recognised landmarks in Kolkata",
             "position": 1,
 	    "imagePath": "http://getwallpapers.com/wallpaper/full/4/8/6/1085374-top-world-beautiful-places-wallpapers-1920x1080-large-resolution.jpg",
@@ -50,7 +50,7 @@
 	    "type": "Destination",
             "description": " ",
             "tagLine": "",
-            "subTItle": "Enjoy Ramoji Film City",
+            "subTitle": "Enjoy Ramoji Film City",
             "position": 3,
 	    "imagePath":"http://www.fonstola.ru/large/201702/256037.jpg",
             "subDestination": [{
